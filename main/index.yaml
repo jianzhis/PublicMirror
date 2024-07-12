@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "7"
-    created: "2024-07-12T06:43:42.813697791Z"
+    created: "2024-07-12T06:53:21.805043779Z"
     description: A Helm chart for deploying a CentOS 7 container with tools on Kubernetes
-    digest: d769a32e43602915501ad755b257df80d3e2370e4942226d1de6664bde111ef1
+    digest: 4d43d7ab1b38d08f5d8f45d3427fa1f585b7d07651d068ba02855e8bb42cba37
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -24,9 +24,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-07-12T06:43:42.814692614Z"
+    created: "2024-07-12T06:53:21.805874246Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: d98af260a1916a772c7f3591f07fd4cc107caed298e3cce6dea343dc48641869
+    digest: b79e93afb5ed2451344fb4c851d73e76d624adc251e86d9fa3d57d165b560415
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -50,9 +50,9 @@ entries:
       app.kubesphere.io/category: Networking
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-07-12T06:43:42.815244125Z"
+    created: "2024-07-12T06:53:21.8064184Z"
     description: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-    digest: b9769a8c65beb53f061ef430761c9fb38ec1cbcaeac714d63e58b91dcca4cfd7
+    digest: 6fd2ad540759811e5c88db6bd225d6b7ac711c58540785624fe6053925613ccf
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     maintainers:
     - email: kubesphere@yunify.com
@@ -63,4 +63,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/main/nginx-1.3.5.tgz
     version: 1.3.5
-generated: "2024-07-12T06:43:42.812297698Z"
+generated: "2024-07-12T06:53:21.804452888Z"
