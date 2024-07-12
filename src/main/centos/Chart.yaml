@@ -1,6 +1,0 @@
-apiVersion: v2
-name: centos
-description: A Helm chart for Kubernetes deployment of CentOS
-type: application
-version: 0.1.0
-appVersion: "1.0"
