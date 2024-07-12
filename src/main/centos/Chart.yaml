@@ -1,14 +1,6 @@
 apiVersion: v2
 name: centos
-description: A Helm chart for deploying a CentOS container with tools on Kubernetes
+description: A Helm chart for Kubernetes deployment of CentOS
 type: application
-version: 1.0.0
+version: 0.1.0
 appVersion: "1.0"
-icon: https://www.centos.org/assets/img/centos-logo.png
-maintainers:
-- name: Ms.xu
-  email: your-email@example.com
-sources:
-- https://github.com/jianzhis/PublicMirror
-annotations:
-  "app.kubesphere.io/category": "Operating System"
