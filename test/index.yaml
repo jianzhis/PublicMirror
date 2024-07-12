@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "7"
-    created: "2024-07-12T08:01:31.556602376Z"
+    created: "2024-07-12T08:03:34.529107031Z"
     description: A Helm chart for deploying a CentOS 7 container with tools on Kubernetes
-    digest: 2d5b8224eaa1ed3fafd599c15d84a36275d791eeb11505ba85f987f51adc0337
+    digest: 192b4723abee48a443a79dadf740ee8953af4f292f20fa0855f713f86b60235e
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -24,7 +24,7 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "8"
-    created: "2024-07-12T08:01:31.557681882Z"
+    created: "2024-07-12T08:03:34.5295925Z"
     description: A Helm chart for deploying a CentOS 8 container with tools on Kubernetes
     digest: 043aea7e7b757a37448a6900089d1be8a9d627c17742d57610ee7af482e4db40
     icon: https://www.centos.org/assets/img/centos-logo.png
@@ -43,9 +43,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-07-12T08:01:31.558971032Z"
+    created: "2024-07-12T08:03:34.530435277Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 0617a56fa46beb35ee4310c16f57f2c01f2f73eb3f6722c56bd3cd3e9e48532d
+    digest: 518a67cf957f47440c79ec848dee59a5ba2e4866668907918b6fe31c7bc19edd
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -69,9 +69,9 @@ entries:
       app.kubesphere.io/category: Networking
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-07-12T08:01:31.559535676Z"
+    created: "2024-07-12T08:03:34.531005624Z"
     description: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-    digest: 36938caf68ec87de4380f013f671110419282deebd50091fce351d1797063e26
+    digest: fabe655fd1ef3497d1e5f51600e1352d45fb9e9836c1d2dd9c4a2dd1ff08a1a9
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     maintainers:
     - email: kubesphere@yunify.com
@@ -82,4 +82,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/nginx-1.3.5.tgz
     version: 1.3.5
-generated: "2024-07-12T08:01:31.555990753Z"
+generated: "2024-07-12T08:03:34.527472955Z"
