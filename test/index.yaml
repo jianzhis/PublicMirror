@@ -5,13 +5,14 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-08-11T11:41:05.91058043Z"
+    created: "2024-08-11T11:46:36.879345566Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: bd3d7174983645b986ded9f1fcc4c1690c1964a61e164690079b2f825964a802
+    digest: 41579416dd5d94074ae9d89caaad673b4c15f7fd6719bea4b14a5721e22f2182
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
       name: Ms.xu
+    - name: 操作系统
     name: centos
     sources:
     - https://github.com/jianzhis/PublicMirror
@@ -24,9 +25,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-08-11T11:41:05.912266139Z"
+    created: "2024-08-11T11:46:36.881086797Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: d45056e1540fd49eb47ad1963b2bbffaa80f8023621062bff23be1a280821c13
+    digest: 81acca509a54e8b77e0880dfb204f3fa91938cd6c7e4e65aaf85c1d5c15fb98d
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -36,8 +37,7 @@ entries:
     maintainers:
     - email: o.with@sportradar.com
       name: olemarkus
-    - email: viglesias@google.com
-      name: viglesiasce
+    - name: 数据库
     name: mysql
     sources:
     - https://github.com/kubernetes/charts
@@ -50,9 +50,9 @@ entries:
       app.kubesphere.io/category: Networking
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-08-11T11:41:05.913007476Z"
+    created: "2024-08-11T11:46:36.881650536Z"
     description: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-    digest: 5edf7c6b757770854bb93b30710dda4f81a6fa6481a393e67cbb842025e94230
+    digest: b111750b585c7d6baf9b2280ee0fbf8095a89fd1a58519e4e2440320250e5c27
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     maintainers:
     - email: kubesphere@yunify.com
@@ -67,15 +67,19 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-08-11T11:41:05.91350162Z"
+    created: "2024-08-11T11:46:36.882048674Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: 65b290e0f85169e8bcba1e3dd7921a29f7e8e9e4cd410d4281643ce3961089bd
+    digest: 8395b5e4268b0239ad168b8476e51a587d9e5051cf6cf3bc94258fc89c57a1b6
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
+    - name: 操作系统
     name: ubuntu
+    sources:
+    - https://github.com/kubernetes/charts
+    - https://github.com/docker-library/mysql
     type: application
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-11T11:41:05.910019351Z"
+generated: "2024-08-11T11:46:36.878810822Z"
