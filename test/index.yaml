@@ -1,0 +1,81 @@
+apiVersion: v1
+entries:
+  centos:
+  - annotations:
+      app.kubesphere.io/category: Operating System
+    apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-08-11T11:41:05.91058043Z"
+    description: A Helm chart for deploying a CentOS container with tools on Kubernetes
+    digest: bd3d7174983645b986ded9f1fcc4c1690c1964a61e164690079b2f825964a802
+    icon: https://www.centos.org/assets/img/centos-logo.png
+    maintainers:
+    - email: your-email@example.com
+      name: Ms.xu
+    name: centos
+    sources:
+    - https://github.com/jianzhis/PublicMirror
+    type: application
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/centos-1.0.0.tgz
+    version: 1.0.0
+  mysql:
+  - annotations:
+      app.kubesphere.io/category: Database & Cache
+    apiVersion: v1
+    appVersion: 5.7.31
+    created: "2024-08-11T11:41:05.912266139Z"
+    description: Fast, reliable, scalable, and easy to use open-source relational database system.
+    digest: d45056e1540fd49eb47ad1963b2bbffaa80f8023621062bff23be1a280821c13
+    home: https://www.mysql.com/
+    icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
+    keywords:
+    - mysql
+    - database
+    - sql
+    maintainers:
+    - email: o.with@sportradar.com
+      name: olemarkus
+    - email: viglesias@google.com
+      name: viglesiasce
+    name: mysql
+    sources:
+    - https://github.com/kubernetes/charts
+    - https://github.com/docker-library/mysql
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/mysql-1.6.8.tgz
+    version: 1.6.8
+  nginx:
+  - annotations:
+      app.kubesphere.io/category: Networking
+    apiVersion: v1
+    appVersion: 1.18.0
+    created: "2024-08-11T11:41:05.913007476Z"
+    description: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+    digest: 5edf7c6b757770854bb93b30710dda4f81a6fa6481a393e67cbb842025e94230
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
+    maintainers:
+    - email: kubesphere@yunify.com
+      name: KubeSphere Community
+    - name: 中间件
+    name: nginx
+    sources:
+    - https://github.com/kubesphere/helm-charts/tree/master/src/main/nginx
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/nginx-1.3.5.tgz
+    version: 1.3.5
+  ubuntu:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-08-11T11:41:05.91350162Z"
+    description: A Helm chart for Kubernetes deployment of Ubuntu
+    digest: 65b290e0f85169e8bcba1e3dd7921a29f7e8e9e4cd410d4281643ce3961089bd
+    maintainers:
+    - email: mail@yunna.cnet
+      name: 云纳官方
+    name: ubuntu
+    type: application
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-11T11:41:05.910019351Z"
