@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-08-11T12:54:48.557859952Z"
+    created: "2024-10-13T13:16:01.914602005Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: df405af1d6790c354c7ac39c2c8a49d4ab5d014fcd9d9252306372552853888d
+    digest: 59502a6ac989a12ce770e7dd37dd78747ebbabc36274b816c929cbb8929d466c
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -25,9 +25,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-08-11T12:54:48.558977865Z"
+    created: "2024-10-13T13:16:01.915697091Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: c414ba73ce1351452747385478b420da84ffec3f779de2455debceada0858f86
+    digest: 5f6ec044276ea712c1954f34ec4d785e28eed437a4e788de640d207f8f067310
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -47,17 +47,23 @@ entries:
     version: 1.6.8
   nginx:
   - annotations:
-      app.kubesphere.io/category: Networking
+      yunna.net/category: Web Server
+      yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-08-11T12:54:48.560039215Z"
-    description: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-    digest: a837cb0b792cd4af6e49037ed6c52389be7d080324249dccb7f7ce7811b59d55
+    created: "2024-10-13T13:16:01.916610068Z"
+    description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
+    digest: b29355220893b3430edc0ef0558f72ddc59e59150233d16ccf9460467f826ac0
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
+    keywords:
+    - networking
+    - reverse proxy
+    - http server
+    - tcp
+    - udp
     maintainers:
-    - email: kubesphere@yunify.com
-      name: KubeSphere Community
-    - name: 中间件
+    - email: email@yunna.net
+      name: 云纳科技
     name: nginx
     sources:
     - https://github.com/kubesphere/helm-charts/tree/master/src/main/nginx
@@ -67,9 +73,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-08-11T12:54:48.560465516Z"
+    created: "2024-10-13T13:16:01.917234289Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: 905827fb9f47e291897078bc910f3759bd57e8a9f636cb966812d10d819b0e73
+    digest: 122ef069e1015f9b7fc8b4398acdf87b6e065668ac2aec0f108bc156be92d780
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -82,4 +88,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/main/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-11T12:54:48.557314597Z"
+generated: "2024-10-13T13:16:01.911882329Z"
