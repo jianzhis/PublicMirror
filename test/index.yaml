@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-13T13:53:20.746936295Z"
+    created: "2024-10-13T14:02:27.095464152Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: adcc3e7ad92e358ca26ae00051dc1a299bfa7ad9517dd8ccd39039f10d2bd29c
+    digest: eebd5cf70f72ee8234ccf281b8c9ac9e52c96510aaf2521681fadef11e268fde
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -23,9 +23,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-13T13:53:20.747457437Z"
+    created: "2024-10-13T14:02:27.095684815Z"
     description: A Helm chart for Minecraft server
-    digest: 12a5d6c1a53aa0fcfa0e52860898d3c1836d87a270ff97acedb8b13406c73f3a
+    digest: be78c58e1043c000ba59cda618d90c27f62c0949df7d26ff13ef3b4c4a5fee1f
     name: minecraft
     urls:
     - https://jianzhis.github.io/PublicMirror/test/minecraft-0.1.0.tgz
@@ -35,9 +35,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-13T13:53:20.748844192Z"
+    created: "2024-10-13T14:02:27.096968676Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 7dfd710a7e7d7e7873b15cfe75e9187b27816ea98c753d4dab412b574ce99674
+    digest: 491f00778aeae857eb3a5aed82945e94652a8196b28e1586496c9ee6dddd413a
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -61,9 +61,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-13T13:53:20.749428883Z"
+    created: "2024-10-13T14:02:27.098056509Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 8741c75bdec8f560918b52327b185c7fef52c5c2ed60b5610d7030964a839d48
+    digest: dffbdc1554cd4500238e48d3a49b8d707c6c9d01c59fa2cd2a1abcc5ec2aaa2d
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -83,9 +83,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-13T13:53:20.749860438Z"
+    created: "2024-10-13T14:02:27.098486804Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: b1c755eb3f26df2fff6b99fec532b77c1de8299a365f3b7f8a73c23fc34d3c5b
+    digest: 3e72defe8368188f724c7506d953290400d2aa6cbe8804bd82200b007d6b3ef3
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -98,4 +98,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-13T13:53:20.746282045Z"
+generated: "2024-10-13T14:02:27.094941274Z"
