@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-13T12:12:05.125655013Z"
+    created: "2024-10-13T12:16:56.601458695Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: 7fd2b14444a425e4d8e45110f46160b5e935b553a76f0967d643d1f20c3250ef
+    digest: 87c637de392103f3453d505fface8a612ecf857aca9c08197f9de207de0c1012
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -25,9 +25,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-13T12:12:05.127266674Z"
+    created: "2024-10-13T12:16:56.603221899Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 7cd74ce56ef08565dcc9d981d7da1016faea07564d3d5e595a5c4425bc46f502
+    digest: 0ab27fc263c5a38c11437edbcde40e97d9a2e49d926fd41c8f6274e963f56033
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -51,14 +51,13 @@ entries:
       category: Infrastructure
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-13T12:12:05.127885775Z"
+    created: "2024-10-13T12:16:56.603785096Z"
     description: nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-    digest: 9f4730b8fc98281e0231b6a62334de3abcb79df0e436abde58e2db39ab3b6656
+    digest: f2ca7b65906c41fedd0d645cf8ce0184728ffdbd3b9c053f985bd76499592f2f
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     maintainers:
-    - email: kubesphere@yunify.com
-      name: KubeSphere Community
-    - name: 中间件
+    - email: email@yunna.net
+      name: 云纳科技
     name: nginx
     sources:
     - https://github.com/kubesphere/helm-charts/tree/master/src/main/nginx
@@ -68,9 +67,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-13T12:12:05.128284282Z"
+    created: "2024-10-13T12:16:56.604192253Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: ea587887a35229395d3e4db51fc66b1a03843ea06eda58afd3976af9e13a5f8a
+    digest: 3178714f0f52a9566fe18fc081ac04990805c833443e636cd9d64b622018e452
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -83,4 +82,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-13T12:12:05.12507726Z"
+generated: "2024-10-13T12:16:56.600933258Z"
