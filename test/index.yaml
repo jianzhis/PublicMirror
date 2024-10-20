@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T05:10:29.187968617Z"
+    created: "2024-10-20T05:47:40.04056527Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: 78286a6c367d5bce3f915bff2cf52b078617e34ca71b9dc78f6959e442b9dd2a
+    digest: 6d8c761f40b9a4ac51e6390536f31ac0e8af9eff17fa50c5e8b68011215b5a50
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -23,7 +23,7 @@ entries:
   cloudreve:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-10-20T05:10:29.188456542Z"
+    created: "2024-10-20T05:47:40.042821915Z"
     description: Cloudreve 可助你即刻构建出兼备自用或公用的网盘服务，通过多种存储策略的支持、虚拟文件系统等特性实现灵活的文件管理体验。
     digest: 2162ad45430e46d2aa5191950d8fa547ad12f4df3b06474320869d45efbe1608
     maintainers:
@@ -34,10 +34,43 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/cloudreve-1.0.0.tgz
     version: 1.0.0
+  - annotations:
+      artifacthub.io/category: storage
+      artifacthub.io/changes: |
+        - kind: added
+          description: init
+          links:
+            - name: repo
+              url: https://github.com/phenix3443/charts
+      artifacthub.io/license: AGPL-3.0-only
+      artifacthub.io/links: |
+        - name: support
+          url: https://github.com/phenix3443/charts
+        - name: Upstream Project
+          url: https://github.com/cloudreve/Cloudreve
+    apiVersion: v2
+    appVersion: 3.8.0
+    created: "2024-10-20T05:47:40.042294524Z"
+    description: Self-hosted file management and sharing system, supports multiple storage providers.
+    digest: d3a50dfef77045dd9cbbc48290f22cc9049b8af79190e05ea1f3d9b6a46cc2f3
+    home: https://cloudreve.org/
+    icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: phenix3443@gmail.com
+      name: phenix3443
+      url: https://blog.panghuli.cn/
+    name: cloudreve
+    sources:
+    - https://github.com/cloudreve/Cloudreve
+    type: application
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/cloudreve-0.1.0.tgz
+    version: 0.1.0
   code-server:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-10-20T05:10:29.189112943Z"
+    created: "2024-10-20T05:47:40.043063193Z"
     description: A Helm chart for deploying code-server
     digest: 128edd818e22113e6304c5569b3b74db54653ae5f02ccfa667024852d590c2c2
     name: code-server
@@ -47,9 +80,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-20T05:10:29.189618772Z"
+    created: "2024-10-20T05:47:40.043339847Z"
     description: A Helm chart for Minecraft server
-    digest: 96c6f1cdbbe2f828e7fd2d2ef14baf651a8ac36c156f3fa385030d9e55ebf752
+    digest: 34fdd2c63e31ae964e3f9731a6d703773e830f53983f085f96ad575d5d69c1da
     name: minecraft
     urls:
     - https://jianzhis.github.io/PublicMirror/test/minecraft-0.1.0.tgz
@@ -59,9 +92,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-20T05:10:29.190758301Z"
+    created: "2024-10-20T05:47:40.044143902Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 129916bf9500f6f70c058c5865c1b6ed41b873975bba0416841cb18d59eac714
+    digest: 9a6364e37775ff3155c1f354e8cafb37b519d0bce5f23c58b631f7f090f4e80d
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -85,9 +118,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-20T05:10:29.191329713Z"
+    created: "2024-10-20T05:47:40.044742434Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 96af9608c40506146b1d15bb57d895daa3167b54b60bfd1724874c4b85ccd131
+    digest: 5a5a1eb34be50c185d291bbdd078ba5ad72ee77a2d409c8901a06ae69002ecd8
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -107,9 +140,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T05:10:29.191761533Z"
+    created: "2024-10-20T05:47:40.045232174Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: 1ef22cf16b7b576035e5dea0d1918ad2e05eb2bfb14d1935a464e3f0379684cc
+    digest: 094581e0158cf2001338610a617005ae36015d7d4a50d392c98ef8ef45688a7f
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -122,4 +155,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-20T05:10:29.187440607Z"
+generated: "2024-10-20T05:47:40.039947763Z"
