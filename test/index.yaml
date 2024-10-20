@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:50:17.651403878Z"
+    created: "2024-10-20T08:04:05.419805474Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: 2c288b7c73138f1b002644cd02be77d633de723cb2f92acfcb41531def2e74c3
+    digest: f1ae4f101026d03ddd20e02bb1d143a0eca6dc3abf4b1b0ccc13f53cd9634894
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -23,7 +23,16 @@ entries:
   cloudreve:
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:50:17.65165164Z"
+    created: "2024-10-20T08:04:05.420691897Z"
+    description: Self-hosted file management and sharing system with MySQL.
+    digest: a5a61af4dfb95b0d4a29f9d0edaa4e6489ed493a2c5965d7a6b0b28adfd66b2b
+    name: cloudreve
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/cloudreve-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 3.8.0
+    created: "2024-10-20T08:04:05.420230371Z"
     description: Self-hosted file management and sharing system with MySQL.
     digest: 997eb39ca71f0905b16e1fdf4737679d9f07d757966a0f995fdee6c19c024296
     name: cloudreve
@@ -33,9 +42,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-20T07:50:17.651879014Z"
+    created: "2024-10-20T08:04:05.421408532Z"
     description: A Helm chart for Minecraft server
-    digest: 323d7afd5a090744d01119e8f72a488562e8b5654e98b036718a564d8d3076f0
+    digest: 90f0b626c3491b0679cf33b3dced97f6e142bbec428f95677aae0a8490d0fff2
     name: minecraft
     urls:
     - https://jianzhis.github.io/PublicMirror/test/minecraft-0.1.0.tgz
@@ -45,9 +54,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-20T07:50:17.653251376Z"
+    created: "2024-10-20T08:04:05.423356076Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: d3a417c7b0d53174ba3646bdcd4e1ce2f6e599cc22870937b56341c9b42f185a
+    digest: 2c9094c699d82fa5567e5fa6a4858547c192b4bcebf9f5402c1ee2bb7cfe8514
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -71,9 +80,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-20T07:50:17.654287568Z"
+    created: "2024-10-20T08:04:05.424413129Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 87c5f27f134113583ddf44a66d2e55eb3cbba65b4ef38b6a00efcb6ae258029e
+    digest: 149f6ca538218b6ab7085caf94563ba3be8cd70a53766e8d724f679a8582f627
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -93,9 +102,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:50:17.654751043Z"
+    created: "2024-10-20T08:04:05.425150172Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: f725cd930e142a6c2206f9be6736ff8bb2538a56f18c98e271892e92bd0fbd6e
+    digest: d14f5a2570f8b2523444b3bbe6adf9b1fa7648cabfb8d5fe2140ab59e6450619
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -108,4 +117,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-20T07:50:17.650835727Z"
+generated: "2024-10-20T08:04:05.418909022Z"
