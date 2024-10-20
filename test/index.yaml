@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:38:49.130722852Z"
+    created: "2024-10-20T07:45:28.991454459Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: 5cb5f911be0c64b4facc3693c49750b16727eb0898a8eb13566199d54f12b5b8
+    digest: 791c54cfdc0692f02c899cb7a9f8adf75c54e771f31688bda065c6205b98ce45
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -23,16 +23,16 @@ entries:
   cloudreve:
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:38:49.132709645Z"
+    created: "2024-10-20T07:45:28.993707159Z"
     description: Self-hosted file management and sharing system with MySQL.
-    digest: 7d37956250450b7ce9a54bb212cbc01d5e0cafb313b8eea025f7fc8998e1b692
+    digest: 16021557c1e62b2ff340f217653a64323f38b3b9e3575adb8cb9fd53428870cd
     name: cloudreve
     urls:
     - https://jianzhis.github.io/PublicMirror/test/cloudreve-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:38:49.132306978Z"
+    created: "2024-10-20T07:45:28.993161477Z"
     description: Self-hosted file management and sharing system with integrated MySQL database.
     digest: 1673ace99b8e8e1f1de47b516518aad5f6a00c6bfcec068cfc0eee17ce343d65
     home: https://cloudreve.org/
@@ -61,7 +61,7 @@ entries:
           url: https://github.com/cloudreve/Cloudreve
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:38:49.131395776Z"
+    created: "2024-10-20T07:45:28.992072961Z"
     description: Self-hosted file management and sharing system, supports multiple storage providers.
     digest: 8febe186dce050ee3f1510c433c07caedc2f0449b338b03a21304eb2fb4f6e00
     home: https://cloudreve.org/
@@ -81,9 +81,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-20T07:38:49.13293621Z"
+    created: "2024-10-20T07:45:28.99394145Z"
     description: A Helm chart for Minecraft server
-    digest: fa4dc2ec8aa0eaeef87114d5617ea44392bf7fdb421defd035e31bd4ac350421
+    digest: ca908c0c856ee5ac838a3c9e88857ca9cdffedeb8e477b535eb287321c63cac9
     name: minecraft
     urls:
     - https://jianzhis.github.io/PublicMirror/test/minecraft-0.1.0.tgz
@@ -93,9 +93,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-20T07:38:49.133756391Z"
+    created: "2024-10-20T07:45:28.994781739Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 8ea0ec99b970c6746a74c70c97b44cc19d3c0e752817824565497ab9273fde0c
+    digest: 1ee79b67060766e9f62ee81a1d871cee5bc64e48c83d16c5f974254d6abe3d7f
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -119,9 +119,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-20T07:38:49.134294972Z"
+    created: "2024-10-20T07:45:28.995345037Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 35dd21c26d544e0bb3033198024ca6506bffcd35a81670e4bc9d831590144f0b
+    digest: 7154f7222b04d37117d5a393929e7eb4370ac923d636e23c19303c957826dbb8
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -141,9 +141,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:38:49.134660209Z"
+    created: "2024-10-20T07:45:28.995750559Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: 136666cf64b78adc45c9eba51279afc4a0d6107c8044cefb4c9be43bb7eee467
+    digest: 3e8938418930ca812659856109682da092002e23b65cf453ef742f26a9eee333
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -156,4 +156,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-20T07:38:49.13020508Z"
+generated: "2024-10-20T07:45:28.990904646Z"
