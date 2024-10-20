@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:22:45.282257165Z"
+    created: "2024-10-20T07:26:27.823083056Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: ecc119f963c1371505a9b0a5c0bce21cddfabb051b1faeab19963162d41cb2f7
+    digest: f2b255435625a66b8ba50d054a9945d6d62755b63ea1165ae8d6eab2e910551a
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -21,6 +21,21 @@ entries:
     - https://jianzhis.github.io/PublicMirror/test/centos-1.0.0.tgz
     version: 1.0.0
   cloudreve:
+  - apiVersion: v2
+    appVersion: 3.8.0
+    created: "2024-10-20T07:26:27.824397305Z"
+    description: Self-hosted file management and sharing system with integrated MySQL database.
+    digest: 1673ace99b8e8e1f1de47b516518aad5f6a00c6bfcec068cfc0eee17ce343d65
+    home: https://cloudreve.org/
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: phenix3443@gmail.com
+      name: phenix3443
+    name: cloudreve
+    type: application
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/cloudreve-0.2.0.tgz
+    version: 0.2.0
   - annotations:
       artifacthub.io/category: storage
       artifacthub.io/changes: |
@@ -37,7 +52,7 @@ entries:
           url: https://github.com/cloudreve/Cloudreve
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:22:45.284048883Z"
+    created: "2024-10-20T07:26:27.824030156Z"
     description: Self-hosted file management and sharing system, supports multiple storage providers.
     digest: 8febe186dce050ee3f1510c433c07caedc2f0449b338b03a21304eb2fb4f6e00
     home: https://cloudreve.org/
@@ -57,9 +72,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-20T07:22:45.284370403Z"
+    created: "2024-10-20T07:26:27.824673384Z"
     description: A Helm chart for Minecraft server
-    digest: cd4eb32c2d8061b2726268ab37d57be0bcf5f6d0fee77f9565415c7264e98dd4
+    digest: e405ec2f1b26c66ae8f05328dd2dd905892255fc35c9c028a9a19516151ff5f9
     name: minecraft
     urls:
     - https://jianzhis.github.io/PublicMirror/test/minecraft-0.1.0.tgz
@@ -69,9 +84,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-20T07:22:45.285196404Z"
+    created: "2024-10-20T07:26:27.825502331Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 92543e1468d40af9f1fa81cd27256d4a7b067a445a24d77756b12fdb1721ab25
+    digest: f30bb2229e429d450e4f2e35e3c0d1198acfcd07c130ca830f57de6d7e56aff8
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -95,9 +110,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-20T07:22:45.285746351Z"
+    created: "2024-10-20T07:26:27.826036413Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: e4b7eed39b46e8fc74961364a5ad43a5f0f765db4ecdcee6252715376f8c67fb
+    digest: abe89e1104768fa619c3edefda339ddfb5ffecb73140faccf038132aeedd5075
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -117,9 +132,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:22:45.286219464Z"
+    created: "2024-10-20T07:26:27.826397782Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: 80e1f861806413fa9e8a92ca35719433f1d3992c1c910b279d5017fa826c0d9a
+    digest: f4ec82c5bb8c6364bce88e8a426b11c0eb1f6863f0ad556f7f1bddf8c8590658
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -132,4 +147,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-20T07:22:45.281654029Z"
+generated: "2024-10-20T07:26:27.822260382Z"
