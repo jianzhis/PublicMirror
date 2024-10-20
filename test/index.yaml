@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T11:32:14.804535533Z"
+    created: "2024-10-20T17:15:59.781420302Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: c837469264dcedf914b61bdc74203407a6cd4b015260e623134bfef7e150a5ad
+    digest: 272576478efd93a0417266c032133cd2d23bc5723a4a33325d3e8fb22d0a8f7c
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -23,9 +23,9 @@ entries:
   cloudreve:
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T11:32:14.805507252Z"
+    created: "2024-10-20T17:15:59.783422695Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 6c737b12ad703411870c1b2ba74fcf8bee4eef4c72fe3bcf7d12aace3913c3cd
+    digest: 26d10e44e265abbeed24182e0bf529ffb150fe4dc063bb512cd1b13bd752064c
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -48,7 +48,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T11:32:14.805095087Z"
+    created: "2024-10-20T17:15:59.782570556Z"
     description: Self-hosted file management and sharing system with MySQL.
     digest: a5a61af4dfb95b0d4a29f9d0edaa4e6489ed493a2c5965d7a6b0b28adfd66b2b
     name: cloudreve
@@ -57,7 +57,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T11:32:14.804807755Z"
+    created: "2024-10-20T17:15:59.781997778Z"
     description: Self-hosted file management and sharing system with MySQL.
     digest: 997eb39ca71f0905b16e1fdf4737679d9f07d757966a0f995fdee6c19c024296
     name: cloudreve
@@ -67,9 +67,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-20T11:32:14.805822686Z"
+    created: "2024-10-20T17:15:59.783750897Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: 8add5774485f7d7fd4d82d62f180466b63429d398e2b1b941028da4027131eb1
+    digest: df13588a2952bd546643fb9a8dfb3850e61c31dd7a3b15d5655940ea2ff5c0c1
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -93,9 +93,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-20T11:32:14.806786661Z"
+    created: "2024-10-20T17:15:59.784538936Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: a998225a6d4bf800d09360fd013f086ae4421faf358ce3736fedc96725f6ec4d
+    digest: 0a8b7708d533126235a8b01e7e8c116f8247dd14067fce8e9ffad9d89d0b0b19
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -119,9 +119,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-20T11:32:14.807329803Z"
+    created: "2024-10-20T17:15:59.78510422Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: ff525c96c32f759398d75cf4dc3018776ba032569c48f1f34097a52cb572d7ad
+    digest: 6ca5ab0d930cd8a150dcadc3205d357ccbffbac3bb190457aba96e32031906db
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -141,9 +141,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T11:32:14.807714467Z"
+    created: "2024-10-20T17:15:59.785478988Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: e94636e44b36520188fe91c83d2491c4e9de82ba111355f0d2ded61d3d1b2cd4
+    digest: 465d6ce2050d79e2e90a9945fbe48abc06d96b598d8413691ec41af1b9e796c8
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -156,4 +156,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-20T11:32:14.803714017Z"
+generated: "2024-10-20T17:15:59.780759329Z"
