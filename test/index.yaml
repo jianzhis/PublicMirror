@@ -5,9 +5,9 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:35:34.188863761Z"
+    created: "2024-10-20T07:38:49.130722852Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
-    digest: cf745495106a3e556c4aa4d0a443919fc32dd95f4064d454544786140662c82a
+    digest: 5cb5f911be0c64b4facc3693c49750b16727eb0898a8eb13566199d54f12b5b8
     icon: https://www.centos.org/assets/img/centos-logo.png
     maintainers:
     - email: your-email@example.com
@@ -23,7 +23,16 @@ entries:
   cloudreve:
   - apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:35:34.190910795Z"
+    created: "2024-10-20T07:38:49.132709645Z"
+    description: Self-hosted file management and sharing system with MySQL.
+    digest: 7d37956250450b7ce9a54bb212cbc01d5e0cafb313b8eea025f7fc8998e1b692
+    name: cloudreve
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/cloudreve-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 3.8.0
+    created: "2024-10-20T07:38:49.132306978Z"
     description: Self-hosted file management and sharing system with integrated MySQL database.
     digest: 1673ace99b8e8e1f1de47b516518aad5f6a00c6bfcec068cfc0eee17ce343d65
     home: https://cloudreve.org/
@@ -52,7 +61,7 @@ entries:
           url: https://github.com/cloudreve/Cloudreve
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-20T07:35:34.190436963Z"
+    created: "2024-10-20T07:38:49.131395776Z"
     description: Self-hosted file management and sharing system, supports multiple storage providers.
     digest: 8febe186dce050ee3f1510c433c07caedc2f0449b338b03a21304eb2fb4f6e00
     home: https://cloudreve.org/
@@ -72,9 +81,9 @@ entries:
   minecraft:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-20T07:35:34.191283386Z"
+    created: "2024-10-20T07:38:49.13293621Z"
     description: A Helm chart for Minecraft server
-    digest: e9fb780440b556e608ff31011e534af5c79fc2fed06007f4a6f887ee2ce52c3e
+    digest: fa4dc2ec8aa0eaeef87114d5617ea44392bf7fdb421defd035e31bd4ac350421
     name: minecraft
     urls:
     - https://jianzhis.github.io/PublicMirror/test/minecraft-0.1.0.tgz
@@ -84,9 +93,9 @@ entries:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-20T07:35:34.192577372Z"
+    created: "2024-10-20T07:38:49.133756391Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 1f526cd922864c7d39c1e7f585eef1fdb0d68b55f533abe7d4db004742abed1a
+    digest: 8ea0ec99b970c6746a74c70c97b44cc19d3c0e752817824565497ab9273fde0c
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -110,9 +119,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-20T07:35:34.193435968Z"
+    created: "2024-10-20T07:38:49.134294972Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 72dcd9c8e87c28dd2f72770ca822713c126d4872634ac2aa33b6b3fcc4e0bd69
+    digest: 35dd21c26d544e0bb3033198024ca6506bffcd35a81670e4bc9d831590144f0b
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -132,9 +141,9 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-20T07:35:34.194061705Z"
+    created: "2024-10-20T07:38:49.134660209Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
-    digest: 554637270242c46480475cb26657a378750ad3f74474ce900faefa2f572c991c
+    digest: 136666cf64b78adc45c9eba51279afc4a0d6107c8044cefb4c9be43bb7eee467
     maintainers:
     - email: mail@yunna.cnet
       name: 云纳官方
@@ -147,4 +156,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-20T07:35:34.188092309Z"
+generated: "2024-10-20T07:38:49.13020508Z"
