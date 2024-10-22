@@ -5,7 +5,7 @@ entries:
       app.kubesphere.io/category: Operating System
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-15T13:05:39.481890855Z"
+    created: "2024-10-22T12:09:20.787928872Z"
     description: A Helm chart for deploying a CentOS container with tools on Kubernetes
     digest: 6f070cb1e4eb1f892604c5706cb38d50530c58f062ae769fa7418970abf739da
     icon: https://www.centos.org/assets/img/centos-logo.png
@@ -20,22 +20,99 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/main/centos-1.0.0.tgz
     version: 1.0.0
+  cloudreve:
+  - annotations:
+      yunna.net/category: Web Storage
+      yunna.net/category-zh: 云存儲
+    apiVersion: v2
+    appVersion: 3.8.0
+    created: "2024-10-22T12:09:20.788299405Z"
+    description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
+    digest: cd162c71f4adbaf74f2807c0396b286f97a0de94d64713343faee4f47158515c
+    home: https://cloudreve.org/
+    icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
+    keywords:
+    - 云存储
+    - 自托管
+    - Cloudreve
+    - 文件管理
+    - 在线预览
+    - 离线下载
+    kubeVersion: '>=1.18.0'
+    maintainers:
+    - email: sekey@yunna.net
+      name: Sekey
+    name: cloudreve
+    sources:
+    - https://github.com/cloudreve/Cloudreve
+    - https://artifacthub.io/packages/helm/truecharts/cloudreve
+    urls:
+    - https://jianzhis.github.io/PublicMirror/main/cloudreve-1.0.2.tgz
+    version: 1.0.2
   minecraft:
-  - apiVersion: v2
+  - annotations:
+      yunna.net/category: Game Server
+      yunna.net/category-zh: 游戏服务器
+    apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-15T13:05:39.482491488Z"
-    description: A Helm chart for Minecraft server
-    digest: 01c7aab9edc956541af061013e8bbbfa80f498ff71dff88f0567e45c64f4dda6
+    created: "2024-10-22T12:09:20.788895951Z"
+    description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
+    digest: c6734d663e6916e4341a73864d7e5fc6bf5fa8aeb683d7969fbbd6488e71ed41
+    home: https://www.minecraft.net/
+    icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
+    keywords:
+    - Minecraft
+    - Sandbox Game
+    - Multiplayer
+    - Modding
+    - Online Server
+    maintainers:
+    - email: support@minecraft.net
+      name: Minecraft Community
     name: minecraft
+    sources:
+    - https://github.com/itzg/docker-minecraft-server
+    - https://www.minecraft.net/en-us/download/server
     urls:
     - https://jianzhis.github.io/PublicMirror/main/minecraft-0.1.0.tgz
     version: 0.1.0
   mysql:
   - annotations:
+      yunna.net/category: Database & Cache
+      yunna.net/category-zh: 数据库
+    apiVersion: v2
+    appVersion: 5.7.31
+    created: "2024-10-22T12:09:20.791250388Z"
+    description: 'MySQL is a fast, reliable, scalable, and easy-to-use open-source relational database management system.  It is commonly used for web applications, data warehousing, and as a component of the LAMP software stack. This Helm chart deploys a MySQL server on Kubernetes, making it suitable for a variety of production workloads,  offering high availability, replication, and backup features. '
+    digest: 1e3e92897dd8e5556203303cd735e2f6c1440a4084ebbf4c1a082772df1b711a
+    home: https://www.mysql.com/
+    icon: https://www.mysql.com/common/logos/mysql-logo.svg
+    keywords:
+    - MySQL
+    - Relational Database
+    - SQL
+    - Database
+    - Open Source
+    - Kubernetes
+    maintainers:
+    - email: o.with@sportradar.com
+      name: Olemarkus
+    - email: community@mysql.com
+      name: MySQL Community
+    name: mysql
+    sources:
+    - https://github.com/kubernetes/charts
+    - https://github.com/docker-library/mysql
+    - https://dev.mysql.com/doc/
+    type: application
+    urls:
+    - https://jianzhis.github.io/PublicMirror/main/mysql-2.0.0.tgz
+    version: 2.0.0
+  - annotations:
       app.kubesphere.io/category: Database & Cache
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-15T13:05:39.483858098Z"
+    created: "2024-10-22T12:09:20.790398174Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
     digest: 4e86cca1cd9a58413ad3195145562091583d7df3723a244c19b2b6362be4df89
     home: https://www.mysql.com/
@@ -61,9 +138,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-15T13:05:39.48443696Z"
+    created: "2024-10-22T12:09:20.791796129Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 145eaf28577ef5a8c00520915a3c5bd99e4b23790e1ee544b78f84adc163f985
+    digest: 7eec4908cfb3f17c819e0414837be160ec5afc6f70ae889805e29dded8e3ab34
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -83,7 +160,7 @@ entries:
   ubuntu:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-15T13:05:39.484833341Z"
+    created: "2024-10-22T12:09:20.792189545Z"
     description: A Helm chart for Kubernetes deployment of Ubuntu
     digest: fc0407ec3bd53d365c9e08b4a99f8fc42ae7854397e4bd92433da21a114257d2
     maintainers:
@@ -98,4 +175,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/main/ubuntu-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-15T13:05:39.481325257Z"
+generated: "2024-10-22T12:09:20.787362092Z"
