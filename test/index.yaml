@@ -6,9 +6,9 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-22T12:47:30.756181606Z"
+    created: "2024-10-22T12:58:10.540786005Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 4373a46c71f01b0bcce39d11b9b3e57e90177c3d12c5d97ad76d689cac8c7669
+    digest: 54a1c00e5b93e4d1b16671cbf83edb470f0fcd483bc52831fbea8687e9e89b54
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -35,9 +35,9 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-22T12:47:30.756546752Z"
+    created: "2024-10-22T12:58:10.541134289Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: 0a14cd1ad6580825f6eec6a93c0fce197da29447619d0fe83c39bbb6e95422f7
+    digest: 2d4b1aec688e4c63a55f2246753f0a175516d269c6c6b1af1cc52bc106255837
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -62,9 +62,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-22T12:47:30.75715233Z"
+    created: "2024-10-22T12:58:10.541682217Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: cd5e0524a3f99e8897129fd6b4ff1735b6d43eebfe7ecf660b5b8467e6a50b74
+    digest: 7edc091c7500b6862bc21ae14581c1b6adae69ac38ab7ea3d2ec9c78afd5baa3
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -81,4 +81,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/nginx-1.3.5.tgz
     version: 1.3.5
-generated: "2024-10-22T12:47:30.754701346Z"
+generated: "2024-10-22T12:58:10.540228078Z"
