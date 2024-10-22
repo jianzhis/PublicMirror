@@ -6,9 +6,9 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-22T11:30:26.154354131Z"
+    created: "2024-10-22T12:45:27.480562425Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 9a0d20acaf86bbcae8a3875daa439793a626affa4b46fa4e5c8af9b8409b284d
+    digest: f5f69aae4191b8e2a4d495415cfc1f5e56e49591f46be5e3c6be85caa8973e03
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -35,9 +35,9 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-22T11:30:26.154759077Z"
+    created: "2024-10-22T12:45:27.480917367Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: bd88751712eeceb57fb44f0e86eef004ec39fdf148f925076e8db20266ad06a3
+    digest: 15cb72967afec1bfaa08dbc9ee605075f4662e7afb8b089527adf9b7253d41d4
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -62,7 +62,7 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: 5.7.31
-    created: "2024-10-22T11:30:26.155675709Z"
+    created: "2024-10-22T12:45:27.481774074Z"
     description: 'MySQL is a fast, reliable, scalable, and easy-to-use open-source relational database management system.  It is commonly used for web applications, data warehousing, and as a component of the LAMP software stack. This Helm chart deploys a MySQL server on Kubernetes, making it suitable for a variety of production workloads,  offering high availability, replication, and backup features. '
     digest: 48508e00c9187fbd54ab28c0822ea71ea0142e6fba6552f066369e5ba1c0d013
     home: https://www.mysql.com/
@@ -94,9 +94,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-22T11:30:26.156255611Z"
+    created: "2024-10-22T12:45:27.482391926Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 10c2558e6444820774775071ea3387845e0460404d7f664405a44215ff5ded58
+    digest: 8613e7eac6a807a581b3a86c0043e7c040432ad382cc561c4d500dea87317b9b
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -113,4 +113,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/nginx-1.3.5.tgz
     version: 1.3.5
-generated: "2024-10-22T11:30:26.1524854Z"
+generated: "2024-10-22T12:45:27.479973498Z"
