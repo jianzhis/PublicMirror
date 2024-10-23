@@ -6,9 +6,9 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-23T16:44:54.458872251Z"
+    created: "2024-10-23T16:50:49.981428005Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 56e8a91d610beccb5b59e55275b58e97d1e9ded94e98422d6b17b690f781e28c
+    digest: ad10a702769bf65b1e9e04ef5da194b611cf3ffc5ba3f7d3589fc8442a710ba0
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -35,9 +35,9 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-23T16:44:54.459237581Z"
+    created: "2024-10-23T16:50:49.981877104Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: 2685e40de350bd3ad8dc05490e53b4f6c68bebfd0d3b39cc09bc813fbe754132
+    digest: 9b180b75c61634425b52e0b66a7b1905c919956e251e706e19aac05ccb18e756
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -62,9 +62,9 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v1
     appVersion: 5.7.31
-    created: "2024-10-23T16:44:54.46138498Z"
+    created: "2024-10-23T16:50:49.983262005Z"
     description: Fast, reliable, scalable, and easy to use open-source relational database system.
-    digest: 5a63c86603ff69f3296646826613451ee53f6bd68c0f6c4b9d3067d798b4007c
+    digest: d83a547ec2c6770ccf8adcf62320a5c5dec7de104439b86fcd6005775e43c1c9
     home: https://www.mysql.com/
     icon: https://www.mysql.com/common/logos/powered-by-mysql-167x86.png
     keywords:
@@ -86,7 +86,7 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: "8"
-    created: "2024-10-23T16:44:54.460132277Z"
+    created: "2024-10-23T16:50:49.982673063Z"
     description: MySQL是一种流行的开源关系型数据库管理系统，广泛用于存储和管理结构化数据。
     digest: 1482171780cbf1bdb715301330b7531d2eed7ada027cf469e1e46df0755d93a9
     icon: https://www.mysql.com/common/logos/mysql-logo.svg
@@ -111,7 +111,7 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: "8"
-    created: "2024-10-23T16:44:54.459536939Z"
+    created: "2024-10-23T16:50:49.982289235Z"
     description: MySQL是一种流行的开源关系型数据库管理系统，广泛用于存储和管理结构化数据。
     digest: 81573e8d9f9e488c57d732e8f591ad5770dc6453bc0bcd16d6e46df2ce5caa87
     icon: https://www.mysql.com/common/logos/mysql-logo.svg
@@ -137,9 +137,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-23T16:44:54.461949761Z"
+    created: "2024-10-23T16:50:49.983912671Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 464c289bf4f04de61dac1cb3c94318992222c65fcb3e7b2b8e6b769500ef7612
+    digest: 9baad8ee18ecb1bc3249c80c6dbb678d898946c666b2aef5e0f26dd94ae2d959
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -156,4 +156,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/nginx-1.3.5.tgz
     version: 1.3.5
-generated: "2024-10-23T16:44:54.458328428Z"
+generated: "2024-10-23T16:50:49.979913967Z"
