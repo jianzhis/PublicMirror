@@ -6,9 +6,9 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-24T10:07:43.593509796Z"
+    created: "2024-10-24T10:31:56.311315108Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 7f04fe0a1ff459094eebcf4c35f1711c9262a4ae70b725ed3b93dcf6b5643f60
+    digest: 68998e73c6db8a63b92edbc6c5f99af1d12d3e8441b88ca2c8e0130cff55f04f
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -32,9 +32,9 @@ entries:
   discourse:
   - apiVersion: v2
     appVersion: 2.8.0
-    created: "2024-10-24T10:07:43.594395132Z"
+    created: "2024-10-24T10:31:56.311652798Z"
     description: A Helm chart for Discourse with PostgreSQL included
-    digest: ba4df785910dac56253214dd8ed16fbb17677dedc980c8bc8422001984385f34
+    digest: 34cff0b7fb3e5a723156eea467fee6ce2a1cb799d921a46f53f806dcd90ac2d1
     name: discourse
     urls:
     - https://jianzhis.github.io/PublicMirror/test/discourse-0.2.0.tgz
@@ -45,9 +45,9 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-24T10:07:43.595240092Z"
+    created: "2024-10-24T10:31:56.312011126Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: 71e476b26defc7e288c1260a3b9ea1fdae362adae0ba60cc7ee0ee5dc18d964b
+    digest: 05dae656a944e847590ccca372a9fb2d4f9d7a0495d9d4e1246add7a0c437b38
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -72,9 +72,9 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: "8"
-    created: "2024-10-24T10:07:43.595515778Z"
+    created: "2024-10-24T10:31:56.312262445Z"
     description: MySQL 是一个开源的关系型数据库管理系统（RDBMS），以稳定性和性能著称。
-    digest: c6a6e73e065d37b20d403b2763d6a444506d895eed6e7fefd4bd1a4b7b718bbb
+    digest: f036b2dce0c66be47de19ca035eb65cc1e203b61d48f2ce232f78dcadcfdecae
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL.svg/500px-MySQL.svg.png
     keywords:
     - database
@@ -96,9 +96,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-24T10:07:43.596075074Z"
+    created: "2024-10-24T10:31:56.313024476Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 12a469836490fba7744c0c9eac550bc5f26f6dff76985598bddf59b3173310ae
+    digest: 21131eb08f9fe45aee5c24620e0c82dc5ea9ecccd67d2db03be8bbcd6e18667d
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -115,4 +115,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/nginx-1.3.5.tgz
     version: 1.3.5
-generated: "2024-10-24T10:07:43.592927697Z"
+generated: "2024-10-24T10:31:56.310319916Z"
