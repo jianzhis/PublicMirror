@@ -3,9 +3,9 @@ entries:
   awvs:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-10-25T15:14:08.481276247Z"
+    created: "2024-10-25T16:36:38.068635443Z"
     description: AWVS 24.8240828144 Linux Version Crack By Pwn3zs
-    digest: 3caf454c9b1a3a02b2d95974912b95ac25dea900d9e9b4d805d7f2dcda99fe2b
+    digest: e2bf55c8df7700c3e585f3324be4ae9569d1475e2a161cc74bca8f4172abf40f
     home: https://hub.docker.com/r/secfa/docker-awvs
     maintainers:
     - email: secfa@example.com
@@ -20,9 +20,9 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-25T15:14:08.482276433Z"
+    created: "2024-10-25T16:36:38.069568134Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 71ef1aa625eb7d055fef79a29417bd6fc53eb871653deefeb5ae917f9fbab7c1
+    digest: 65b9e0185395bf3929913a37c7364c1c1f1f9302183314fba34b00236d2e4460
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -46,22 +46,46 @@ entries:
   discourse:
   - apiVersion: v2
     appVersion: 2.8.0
-    created: "2024-10-25T15:14:08.48289708Z"
+    created: "2024-10-25T16:36:38.070172234Z"
     description: A Helm chart for Discourse with PostgreSQL included
-    digest: 7e0d2598988bdad2ce368c08aac01bbb5b87f5d453a464d591956e60e1bd1aa1
+    digest: 67208ed788eec4c339cf68ddbb2599825472c2481308066f26bb95530a96b57a
     name: discourse
     urls:
     - https://jianzhis.github.io/PublicMirror/test/discourse-0.2.0.tgz
     version: 0.2.0
+  halo:
+  - annotations:
+      yunna.net/category: Blog System
+      yunna.net/category-zh: 博客系统
+    apiVersion: v2
+    appVersion: "2.20"
+    created: "2024-10-25T16:36:38.070474655Z"
+    description: 'Halo 是一个强大的开源博客系统，支持高度自定义的主题和插件管理。 该 Chart 用于部署 Halo，并支持持久化存储配置和服务端口自定义。 '
+    digest: 7b2e6187f8c8c2188be98620798ad0dd9dab5ac1757dcd0d6e2a8f6308e0f62d
+    home: https://hub.docker.com/r/halohub/halo
+    icon: https://www.halo.run/upload/2021/03/Adaptive256-463ca9b92e2d40268431018c07735842.png
+    keywords:
+    - Blog
+    - Open Source
+    - Halo
+    maintainers:
+    - email: support@halo.com
+      name: halohub
+    name: halo
+    sources:
+    - https://github.com/halo-dev/halo
+    urls:
+    - https://jianzhis.github.io/PublicMirror/test/halo-0.1.1.tgz
+    version: 0.1.1
   hexo:
   - annotations:
       yunna.net/category: Blog Platform
       yunna.net/category-zh: 博客平台
     apiVersion: v2
     appVersion: latest
-    created: "2024-10-25T15:14:08.48359906Z"
+    created: "2024-10-25T16:36:38.070857065Z"
     description: 'Hexo 是一个快速、简洁且高效的博客框架，支持 Markdown 和多种模板引擎。 本 Chart 部署 Hexo 环境，并包含常用插件和持久化存储选项，帮助用户轻松搭建个人博客。 支持自动部署、Git 集成及 Hexo-Admin 后台管理插件。 '
-    digest: badc15d60c749b5d908f61f2b6e78b1856718f7352224f4264845341800f9f6b
+    digest: 8ee0102480d41ce8b807ea20c2f5b03c26e8050280b8c3bf64e31e149307f19c
     home: https://hexo.io/
     icon: https://upload.wikimedia.org/wikipedia/commons/e/e9/Hexo-logo.png
     keywords:
@@ -86,9 +110,9 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-25T15:14:08.484250966Z"
+    created: "2024-10-25T16:36:38.0711997Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: c99597d365f92e6c12010b5a233acbe879a971f283c66510d7ca69da4846233b
+    digest: 8641052f6fcdd3801992850341ba78279ab5b2ea97f80bd9a3d11dd552440f7a
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -113,9 +137,9 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: "8"
-    created: "2024-10-25T15:14:08.484740186Z"
+    created: "2024-10-25T16:36:38.071465013Z"
     description: MySQL 是一个开源的关系型数据库管理系统（RDBMS），以稳定性和性能著称。
-    digest: 0e06c20d05359a469126e55efdf7b19fd0d4c9390a2174b6d367c962649eaa7e
+    digest: a5fae92551f37010aac3c4d6a0a8c394e65d775fa988df249c1fef768d238122
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL.svg/500px-MySQL.svg.png
     keywords:
     - database
@@ -137,9 +161,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-25T15:14:08.4857369Z"
+    created: "2024-10-25T16:36:38.072107695Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: e4b4023f28c8c2bdb7193b1d4211e233b44b66e04b67794dde5ffa98f5f88bdb
+    digest: 6b17e97960c35af0a6ea11f1c888f0b01a872021402eda7fb88c0755d3094b40
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -162,9 +186,9 @@ entries:
       yunna.net/category-zh: 监控工具
     apiVersion: v2
     appVersion: latest
-    created: "2024-10-25T15:14:08.48696517Z"
+    created: "2024-10-25T16:36:38.07277879Z"
     description: 'Uptime Kuma 是一个自托管的监控工具，可帮助用户监控网站和服务的正常运行时间。 该 Chart 用于部署 Uptime Kuma，并支持持久化存储配置和服务端口自定义。 '
-    digest: 66578f35e753f18e29d5e6afcb6c873ec81035cbfb8a51feeffecaf0d8baa6a8
+    digest: c102b2d864fe25c1ad08466724b33169234a42931e74564e20de82ab4a9c4dbf
     home: https://github.com/louislam/uptime-kuma
     icon: https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.png
     keywords:
@@ -186,7 +210,7 @@ entries:
       yunna.net/category-zh: 监控工具
     apiVersion: v2
     appVersion: "1"
-    created: "2024-10-25T15:14:08.486381091Z"
+    created: "2024-10-25T16:36:38.07244466Z"
     description: 'Uptime Kuma 是一个自托管的监控工具，可帮助用户监控网站和服务的正常运行时间。 该 Chart 用于部署 Uptime Kuma，并支持持久化存储配置和服务端口自定义。 '
     digest: 09e1b5fd3f50fa8a473b4cefe85120f2d3273c6f96f30ea4dd94afe972462146
     home: https://github.com/louislam/uptime-kuma
@@ -205,4 +229,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/uptime-kuma-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-25T15:14:08.480218919Z"
+generated: "2024-10-25T16:36:38.068195497Z"
