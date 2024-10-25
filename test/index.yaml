@@ -3,9 +3,9 @@ entries:
   awvs:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-10-25T14:53:15.124988381Z"
+    created: "2024-10-25T15:05:28.651398452Z"
     description: AWVS 24.8240828144 Linux Version Crack By Pwn3zs
-    digest: 4d04405b0699dfae59d77c85d42a1ab34698abcc88981c67aed4499a2733d8e7
+    digest: 2109ba79dd5307d7a5355cb574f8f830a7c22b17191672c88f6ea8470f02e3ea
     home: https://hub.docker.com/r/secfa/docker-awvs
     maintainers:
     - email: secfa@example.com
@@ -20,9 +20,9 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-10-25T14:53:15.125393826Z"
+    created: "2024-10-25T15:05:28.65182259Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过 Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 9131600a8da5c232050b87de3544dfb18ad41222cdbd0830da2230ca663b0e23
+    digest: 8b9dd2e99df836a116196f9b4c65339f72ae81c29e084c24af0e62ab5770c7b0
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -46,9 +46,9 @@ entries:
   discourse:
   - apiVersion: v2
     appVersion: 2.8.0
-    created: "2024-10-25T14:53:15.125749038Z"
+    created: "2024-10-25T15:05:28.652128338Z"
     description: A Helm chart for Discourse with PostgreSQL included
-    digest: 13e4aae11e2cf2eaa15231e643609b8a8df8fef60be7b008be9c5dcba9c1c158
+    digest: 66b50def49c7a199be46cc4415b533dd339029ede27945a6725a6c26909e123f
     name: discourse
     urls:
     - https://jianzhis.github.io/PublicMirror/test/discourse-0.2.0.tgz
@@ -59,9 +59,9 @@ entries:
       yunna.net/category-zh: 博客平台
     apiVersion: v2
     appVersion: latest
-    created: "2024-10-25T14:53:15.126134857Z"
+    created: "2024-10-25T15:05:28.652489089Z"
     description: 'Hexo 是一个快速、简洁且高效的博客框架，支持 Markdown 和多种模板引擎。 本 Chart 部署 Hexo 环境，并包含常用插件和持久化存储选项，帮助用户轻松搭建个人博客。 支持自动部署、Git 集成及 Hexo-Admin 后台管理插件。 '
-    digest: e7bd229ac062bbd9a0de047a900b8cb311a55631ba1b2615d14d71cfd7090268
+    digest: 99a7c8885bbbe7ac56ff980db3891d086986f45a56422537ed113d2996c917b8
     home: https://hexo.io/
     icon: https://upload.wikimedia.org/wikipedia/commons/e/e9/Hexo-logo.png
     keywords:
@@ -86,9 +86,9 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-25T14:53:15.126484439Z"
+    created: "2024-10-25T15:05:28.652836824Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft 服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: 1250bc1af2a13ab20e6718585b204bf6c594d9af167c8d80e8ff714c020cba36
+    digest: a8053b5a68252cb29121f75a42eb089b1f9e07b3456e7c2f001719530a809026
     home: https://www.minecraft.net/
     icon: https://icon-icons.com/downloadimage.php?id=168974&root=2699/PNG/128/&file=minecraft_logo_icon_168974.png
     keywords:
@@ -113,9 +113,9 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: "8"
-    created: "2024-10-25T14:53:15.12672667Z"
+    created: "2024-10-25T15:05:28.653083623Z"
     description: MySQL 是一个开源的关系型数据库管理系统（RDBMS），以稳定性和性能著称。
-    digest: d5f04690dc63665c61346ea0ea5f44d5562404987e5ed09e4a1ff7d2844d05cb
+    digest: 96be142fb25d2bff5b0d958f03bdbeb94347ee5f7773292e89323e43778b0dc5
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL.svg/500px-MySQL.svg.png
     keywords:
     - database
@@ -137,9 +137,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-10-25T14:53:15.127406067Z"
+    created: "2024-10-25T15:05:28.653754961Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 4a81ab299b1a612ed301bd0aa55fe5da7de232217161a8b6ceef3c1e456d44fe
+    digest: e54d44e258637cedd0835de4d99e91e75442e2217147a6e496531cfd34a9e8c8
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -162,9 +162,9 @@ entries:
       yunna.net/category-zh: 监控工具
     apiVersion: v2
     appVersion: latest
-    created: "2024-10-25T14:53:15.128230463Z"
+    created: "2024-10-25T15:05:28.654585293Z"
     description: 'Uptime Kuma 是一个自托管的监控工具，可帮助用户监控网站和服务的正常运行时间。 该 Chart 用于部署 Uptime Kuma，并支持持久化存储配置和服务端口自定义。 '
-    digest: 281109e2e35330981967e2969b75f43fa5450e3519e2ed52d979e67b64befded
+    digest: c86bbcff8e35c6a5bcdefde1506c7b428b5a84a16dbfef75d7d60af3e968e14c
     home: https://github.com/louislam/uptime-kuma
     icon: https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.png
     keywords:
@@ -186,7 +186,7 @@ entries:
       yunna.net/category-zh: 监控工具
     apiVersion: v2
     appVersion: "1"
-    created: "2024-10-25T14:53:15.127921257Z"
+    created: "2024-10-25T15:05:28.654291607Z"
     description: 'Uptime Kuma 是一个自托管的监控工具，可帮助用户监控网站和服务的正常运行时间。 该 Chart 用于部署 Uptime Kuma，并支持持久化存储配置和服务端口自定义。 '
     digest: 09e1b5fd3f50fa8a473b4cefe85120f2d3273c6f96f30ea4dd94afe972462146
     home: https://github.com/louislam/uptime-kuma
@@ -205,4 +205,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/uptime-kuma-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-25T14:53:15.124500531Z"
+generated: "2024-10-25T15:05:28.650940561Z"
