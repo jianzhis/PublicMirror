@@ -6,10 +6,10 @@ entries:
       yunna.net/category-zh: 数据库管理
     apiVersion: v2
     appVersion: 4.8.1
-    created: "2024-12-12T10:47:49.068628132Z"
+    created: "2024-12-12T10:51:29.883801154Z"
     description: 'Adminer 是一个独立的、轻量级数据库管理工具，支持 MySQL、PostgreSQL、SQLite、MS SQL 和 Oracle
       等多种数据库。 通过简洁的界面，用户可以轻松执行数据库操作，如创建和修改表、执行查询、导入导出数据等。 '
-    digest: d81db9f9c220f2bd623083ace71e848c5ceb3e2ffd8bfbb27452e9707a8edde9
+    digest: 19758b9972ae22191acaaea508c8a652e7ea75b0fabb534875aa24e0e0f74234
     home: https://hub.docker.com/_/adminer
     icon: https://www.adminer.org/static/images/icons/adminer.png
     keywords:
@@ -27,9 +27,9 @@ entries:
   awvs:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.068907442Z"
+    created: "2024-12-12T10:51:29.884067792Z"
     description: AWVS 24.8240828144 Linux Version Crack By Pwn3zs
-    digest: 250aa268160a17ac6cd9569650a76af30c017e77a0d9f18f81a86b549614ad30
+    digest: a299e7877fa2fe3a7e95925de9917493d87bb18f255bb81121a569bba4775d9c
     home: https://hub.docker.com/r/secfa/docker-awvs
     maintainers:
     - email: secfa@example.com
@@ -44,10 +44,10 @@ entries:
       yunna.net/category-zh: 基础镜像
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.069248536Z"
+    created: "2024-12-12T10:51:29.884395255Z"
     description: 'Phusion Baseimage 是一个特殊的 Docker 基础镜像，经过修改的 Ubuntu 系统，专为 Docker 容器设计。它包含了
       init 进程和系统服务管理功能。 '
-    digest: 0b1e64052bcfa4d7fff203e439a3d203f5645f6deb670f580c1c0310d3139fe8
+    digest: fd6abbb5eed07e16905d622c414f836ffa22fa18529305ec052e87d8f313eaec
     home: https://github.com/phusion/baseimage-docker
     keywords:
     - Base Image
@@ -69,9 +69,9 @@ entries:
       yunna.net/category-zh: 密码管理
     apiVersion: v2
     appVersion: 1.32.2-alpine
-    created: "2024-12-12T10:47:49.069522295Z"
+    created: "2024-12-12T10:51:29.88470802Z"
     description: 'Bitwarden 是一个开源的自托管密码管理器。 此 Chart 用于在 Kubernetes 集群上部署 Bitwarden。 '
-    digest: 8e0095f57d1105b482177827ca9b4ad004a3b3d5ad9c6156399e468808002191
+    digest: e5c8a08ddaf2d111d8c3da578dabcf521ec4c90ec591dbdf61bec0ecddee8461
     home: https://hub.docker.com/r/vaultwarden/server
     icon: https://bitwarden.com/favicon.ico
     keywords:
@@ -93,9 +93,9 @@ entries:
       yunna.net/category-zh: 人工智能
     apiVersion: v2
     appVersion: v2.15.6
-    created: "2024-12-12T10:47:49.069826271Z"
+    created: "2024-12-12T10:51:29.885022718Z"
     description: 'ChatGPT Next Web 是一个基于 OpenAI API 的强大对话界面，用户可通过自然语言与 AI 进行交互，支持设置个性化对话风格、导出聊天记录等。界面响应快速，支持移动端和桌面端使用，适用于编程辅助、翻译、创意写作等多种场景。 '
-    digest: b7d5f89dc9a62bc3da1c308b06deda1e9d57506bc2e0bfaa48433b22374f45a1
+    digest: d051649abbdd023bf25cb416864ccefa44447bd89619bf7d42999bbaf80b7402
     home: https://hub.docker.com/r/yidadaa/chatgpt-next-web
     icon: https://pbs.twimg.com/profile_images/1741444768553631744/s7PRthX__bigger.jpg
     keywords:
@@ -117,10 +117,10 @@ entries:
       yunna.net/category-zh: 数据库管理
     apiVersion: v2
     appVersion: 24.2.3
-    created: "2024-12-12T10:47:49.070122061Z"
+    created: "2024-12-12T10:51:29.885310647Z"
     description: 'CloudBeaver 是一个功能强大的 Web 数据库管理工具，支持跨平台、多数据库管理。用户可通过浏览器对 MySQL、PostgreSQL、SQL
       Server、SQLite、Oracle 等数据库进行远程管理和数据操作，具备用户权限管理、数据查询、表格结构编辑等功能。 '
-    digest: c3d23c9a4dd350e3d08102244570e731d9853c5c662d46d7962a10bb2017c9a5
+    digest: 659fdfb2f4791b0fefd46743e71112420f0a16b11cc56db63bfba1bf0aaa6ad3
     home: https://hub.docker.com/r/dbeaver/cloudbeaver
     icon: https://raw.githubusercontent.com/wiki/dbeaver/cloudbeaver/images/cloudbeaver-logo.png
     keywords:
@@ -142,10 +142,10 @@ entries:
       yunna.net/category-zh: 云存儲
     apiVersion: v2
     appVersion: 3.8.0
-    created: "2024-12-12T10:47:49.070532063Z"
+    created: "2024-12-12T10:51:29.886293644Z"
     description: 'Cloudreve 是一个自托管的文件管理与共享平台，支持整合多种云存储服务（如本地存储、阿里云、OneDrive 等）。 用户可以通过
       Cloudreve 实现文件的存储、共享与权限管理，并支持在线预览、分布式存储和离线下载。 该项目旨在为个人和企业提供高效、安全的文件管理解决方案。 '
-    digest: 133f567708283a39f75bc661df78e29915dc17389201fe33346dc8400bb0863b
+    digest: 31b18119236d3812b1200674d6c0638297dbaf57fe25f6a20a610ef16228ebdc
     home: https://cloudreve.org/
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     keywords:
@@ -172,9 +172,9 @@ entries:
       yunna.net/category-zh: 集成开发环境
     apiVersion: v2
     appVersion: 4.93.1
-    created: "2024-12-12T10:47:49.070854122Z"
+    created: "2024-12-12T10:51:29.887029109Z"
     description: 'Code-Server 是一个远程开发环境，将 Visual Studio Code 扩展至浏览器中运行，允许用户在任何设备上进行代码编辑和项目管理。用户通过浏览器即可远程访问、编辑和调试代码，同时利用服务器资源进行测试、编译等重负载任务，保持一致的开发环境。 '
-    digest: ad42862a10d18f5c7b6eb300dd5808dab0a0671439f9e096208691ff4799de62
+    digest: 00432f34085e15867b1c23e06092a43de15c1a3862f4d68b338c12f91a56aca6
     home: https://hub.docker.com/r/linuxserver/code-server
     icon: https://avatars.githubusercontent.com/u/95932066?s=200&v=4
     keywords:
@@ -196,7 +196,7 @@ entries:
       yunna.net/category-zh: 社区平台
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.080446759Z"
+    created: "2024-12-12T10:51:29.896986477Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -207,7 +207,7 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 17.x.x
     description: 'Discourse 是一个现代化的开源讨论平台，支持论坛、长文章讨论和社区互动。它提供强大的内容管理、用户管理和插件系统。 '
-    digest: c1040292a033c39085f64000ea5fa722b6af64c420b5f423fce695a26a324c35
+    digest: 76313a22ddfe4dfd5889912e3a42af922b4a1335ec8a0944f495561f2ab5d17c
     home: https://github.com/discourse/discourse
     keywords:
     - Forum
@@ -229,10 +229,10 @@ entries:
       yunna.net/category-zh: MQTT 代理
     apiVersion: v2
     appVersion: 5.8.1
-    created: "2024-12-12T10:47:49.080868343Z"
+    created: "2024-12-12T10:51:29.897396534Z"
     description: 'EMQX 是一款高性能、开源的分布式 MQTT 消息代理，专为物联网（IoT）场景设计，能够支持高达亿级设备连接。其特性包括全面的
       MQTT 协议支持、低延迟消息传递、强大的规则引擎、与多种云和数据平台的集成，适用于智慧城市、工业物联网等领域中的实时数据连接与管理。 '
-    digest: bd158193a8ced145aa93fafd13e46ea9189b8b0bfadb157dbdc59ead1f6523fd
+    digest: 9b725a340f94c60f59fcf070543d7404f367141d4dfb962dce9f393253622d7d
     home: https://hub.docker.com/r/emqx/emqx
     icon: https://www.emqx.io/favicon.ico
     keywords:
@@ -254,10 +254,10 @@ entries:
       yunna.net/category-zh: 文件管理
     apiVersion: v2
     appVersion: v2.31.2
-    created: "2024-12-12T10:47:49.081199027Z"
+    created: "2024-12-12T10:51:29.89772572Z"
     description: 'Filebrowser 是一个开源的 Web 文件管理工具，提供用户友好的界面，可通过浏览器进行文件预览、编辑、上传和下载等操作。它支持多用户权限管理，允许每个用户拥有独立的目录访问权限，适用于团队协作和共享文件。Filebrowser
       还支持自定义界面外观及多种认证方式，便于安全和个性化管理。 '
-    digest: eb8839ecb2437ead4815ad68500a99d64485161f379ef9bc8e7bc8f818d7b3a9
+    digest: df760154cc1941a4176a8294ea35fb3c5a1cc43f76f3448a5e18407080112c0f
     home: https://hub.docker.com/r/filebrowser/filebrowser
     icon: https://avatars.githubusercontent.com/u/35781395?s=200&v=4
     keywords:
@@ -278,10 +278,10 @@ entries:
       yunna.net/category-zh: 博客系统
     apiVersion: v2
     appVersion: "2.20"
-    created: "2024-12-12T10:47:49.081578103Z"
+    created: "2024-12-12T10:51:29.898106862Z"
     description: 'Halo 是一个功能强大的开源博客系统,基于 Java 构建,支持自定义主题、插件管理和内容组织。 通过此 Chart 可以将
       Halo 部署到 Kubernetes 集群上,实现高效的博客发布与管理。 该 Chart 支持持久化存储配置,并允许定制服务端口和数据库连接等参数。 '
-    digest: 83e95ec2d61d89d57983bdf3612154dc38a15312368383cd15c88c1f41143584
+    digest: f07faabfce1820eb2f98c1409021d1384ea91edff91dbbb86a0c526af78cb654
     home: https://hub.docker.com/r/halohub/halo
     icon: https://www.halo.run/upload/2021/03/Adaptive256-463ca9b92e2d40268431018c07735842.png
     keywords:
@@ -304,10 +304,10 @@ entries:
       yunna.net/category-zh: 博客平台
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.081899681Z"
+    created: "2024-12-12T10:51:29.898444884Z"
     description: 'Hexo 是一个快速、简洁且高效的博客框架，支持 Markdown 和多种模板引擎。 本 Chart 部署 Hexo 环境，并包含常用插件和持久化存储选项，帮助用户轻松搭建个人博客。
       支持自动部署、Git 集成及 Hexo-Admin 后台管理插件。 '
-    digest: 8cd3a6b69b335a4688f386d3fd2dc9ba467a87fa05151263bb341741c4663830
+    digest: aaaa0ccddc3c355b493545aa02d36e5fffa303b184326a5bd4f03ccb0a65b768
     home: https://hexo.io/
     icon: https://upload.wikimedia.org/wikipedia/commons/e/e9/Hexo-logo.png
     keywords:
@@ -332,9 +332,9 @@ entries:
       yunna.net/category-zh: 安全工具
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.082183157Z"
+    created: "2024-12-12T10:51:29.898776324Z"
     description: 'Kali Linux是一个基于Debian的Linux发行版，专注于渗透测试和安全审计。 这个Chart提供了Kali Linux的容器化部署方案，适用于安全测试环境。 '
-    digest: 16d604af2c49901f69fbba1daa8cfa664bfc396afee0cfdc309b0150f0b2be46
+    digest: bc9708bd31eea9b8720285da32c50a53148c6cb50d337a8abf307803142babd5
     home: https://www.kali.org/
     keywords:
     - Security
@@ -355,9 +355,9 @@ entries:
       yunna.net/category-zh: 管理工具
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.082586939Z"
+    created: "2024-12-12T10:51:29.899251553Z"
     description: 'MCSManager 是一个开源的 Minecraft 服务器管理面板，支持多服务器管理、在线控制台、文件管理、账号权限等功能。 '
-    digest: 1c5ac524cb3ffaa5df41cbcdb0451da36497aad32668d32bb6a0e7f5557331b1
+    digest: ce2ec687ad40e50be82aad6644625a2c2b5f0a8fb4071281d54bc0660b8ea23a
     home: https://mcsmanager.com/
     keywords:
     - minecraft
@@ -375,10 +375,10 @@ entries:
       yunna.net/category-zh: 游戏服务器
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:47:49.082950274Z"
+    created: "2024-12-12T10:51:29.899710711Z"
     description: 'Minecraft 是一款广受欢迎的沙盒游戏，玩家可以在其中探索、建造、合作与战斗。  本 Chart 部署 Minecraft
       服务器，为玩家提供多人在线游戏世界，并支持自定义插件、模组和配置，满足社区服务器和私人服务器需求。 该服务器支持官方版和 Forge、Paper 等模组版，为玩家提供丰富的游戏体验。 '
-    digest: 0ee1fd22d9b3255d267ca1c2df88749125073ec168b79bfb9a4afb8b2fde3d92
+    digest: d031e1a14e76bab3906d31783f17851abc5b6d67b123b6e6ca8b8b4253c357fc
     home: https://www.minecraft.net/
     icon: https://p1.hiclipart.com/preview/896/990/447/minecraft-hd-icon-mac-pc-minecraft-icon-512-png-icon.jpg
     keywords:
@@ -403,9 +403,9 @@ entries:
       yunna.net/category-zh: 数据库
     apiVersion: v2
     appVersion: "8.0"
-    created: "2024-12-12T10:47:49.0833136Z"
+    created: "2024-12-12T10:51:29.900106231Z"
     description: 'MySQL 是世界上最流行的开源数据库之一。这个 Chart 提供了单节点的 MySQL 部署方案， 适用于开发环境和小规模生产环境使用。提供资源限制、数据持久化等特性。 '
-    digest: eb92fdf7eaf9c49bc255a1512fedadb16c7f8b9fa78b30aab549ca7c411856af
+    digest: b1d754de4873adf5ec456bf52d01463cbbabb8758a274372e74d9ad2369caefb
     home: https://www.mysql.com/
     keywords:
     - Database
@@ -427,10 +427,10 @@ entries:
       yunna.net/category-zh: 文件共享
     apiVersion: v2
     appVersion: 30.0.1
-    created: "2024-12-12T10:47:49.083594161Z"
+    created: "2024-12-12T10:51:29.900446236Z"
     description: 'Nextcloud 是一个功能丰富的开源平台，不仅用于文件同步和共享，还支持团队协作、任务管理、视频会议、笔记、日历等。该 Chart
       用于在 Kubernetes 集群中快速部署 Nextcloud，以便灵活设置文件共享、安全数据存储，并具备插件扩展功能。 '
-    digest: 9c8a6ef819933300f71a5bc8219477b85213d0cf702f48ba95f8e5d2d27b8035
+    digest: 7eae55ae141bd911289a57783ee2cedc079267e0aecd6ea74121854da306db40
     home: https://hub.docker.com/r/linuxserver/nextcloud
     icon: https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png
     keywords:
@@ -452,9 +452,9 @@ entries:
       yunna.net/category-zh: Web服务器
     apiVersion: v1
     appVersion: 1.18.0
-    created: "2024-12-12T10:47:49.084103088Z"
+    created: "2024-12-12T10:51:29.901018286Z"
     description: nginx是一个HTTP和反向代理服务器、邮件代理服务器和通用TCP/UDP代理服务器，最初由Igor Sysoev编写。
-    digest: 602932858179d4a44783dc5ebaf95380bc03f0426bd86741e06891ebf19cae02
+    digest: 288824ce4d5166f4c8727170b9a835c56252abde21dd94b2173818dadbcabd80
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
     - networking
@@ -477,10 +477,10 @@ entries:
       yunna.net/category-zh: AI 服务
     apiVersion: v2
     appVersion: 0.3.14
-    created: "2024-12-12T10:47:49.084360416Z"
+    created: "2024-12-12T10:51:29.901325991Z"
     description: 'Ollama 是一个专为 AI 模型部署和运行而设计的服务平台，支持 GPU 加速和多语言 API 接口。该平台能够高效处理自然语言处理、机器学习和数据分析任务，尤其适用于需要大量计算资源的模型。Ollama
       提供灵活的模型管理功能，支持模型预加载、动态资源分配以及自动扩展。 '
-    digest: 208fe2ab64f27bebb14afa21e0cd8d59330b12158641c1f2b95dfcf491c8a1b5
+    digest: 461b9545bac6ebd414a66acdde485cdc15ae93f3a842db2007b434047cb996aa
     home: https://hub.docker.com/r/ollama/ollama
     icon: https://ollama.com/public/ollama.png
     keywords:
@@ -502,9 +502,9 @@ entries:
       yunna.net/category-zh: 文档编辑
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.084693316Z"
+    created: "2024-12-12T10:51:29.901738553Z"
     description: 'ONLYOFFICE Document Server 是一个在线文档编辑协作工具，支持文字、表格和幻灯片的在线协作。 '
-    digest: d43e6126c2d2f74b0fcc65a2ddfd6c3e8edc2fb28a01d82a1e0bd9da2894b659
+    digest: 7b9aae7c5c4bab0177c5f0585dd442efcdb557fbb9c55898ac7c11da0d36a625
     home: https://www.onlyoffice.com/
     icon: https://assets.yunna.net/i/2024/12/11/x343.jpeg
     keywords:
@@ -526,10 +526,10 @@ entries:
       yunna.net/category-zh: 应用程序
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:47:49.084957797Z"
+    created: "2024-12-12T10:51:29.902058631Z"
     description: 'Open WebUI 是一个开源的 Web 用户界面框架，适用于快速构建和部署 Web 应用程序。它支持模块化组件、灵活配置以及自定义界面，适合创建管理面板、仪表板等
       Web 应用。 '
-    digest: 6b78203848645b40624e358e41dae03d940fc2558aeb8dec4244bc8c998e2325
+    digest: e20cb02755db0b08bac5b29e0382b29a21fa5b598f7e64aac0b31b018bf694f2
     home: https://example.com
     icon: https://avatars.githubusercontent.com/u/158137808?s=200&v=4
     keywords:
@@ -551,9 +551,9 @@ entries:
       yunna.net/category-zh: 安全工具
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.08522287Z"
+    created: "2024-12-12T10:51:29.902379381Z"
     description: '基于 ParrotSec 的渗透测试环境，预装了大量安全测试工具。 提供SSH远程访问，支持持久化存储。 '
-    digest: f6c573f6112d508c8e48ab59fbbeb5edbb549de7a1f6ca452e02eb3b10dca756
+    digest: 957c56ffba07c75d58d79b523e23a60bb94473e93d5d32ce27eebc66afb4a0d1
     keywords:
     - Security
     - Penetration Testing
@@ -568,10 +568,10 @@ entries:
       yunna.net/category-zh: 数据库管理
     apiVersion: v2
     appVersion: "4"
-    created: "2024-12-12T10:47:49.085473106Z"
+    created: "2024-12-12T10:51:29.902682447Z"
     description: 'pgAdmin 是一个流行且功能强大的 PostgreSQL 管理工具，提供直观的图形界面，方便用户执行数据库管理、查询和开发任务。它适合数据库管理员和开发者，用于
       PostgreSQL 数据库的可视化操作、SQL 查询执行以及权限管理。 '
-    digest: 05d31324a53d51029b449b77d9c4303db55c36a8b63841effe02b1a59efad148
+    digest: 3c52c2f00e86b4867763041345fb1ebe9935d5b6fe55f88b9466fad25cf78fce
     home: https://hub.docker.com/r/dpage/pgadmin4
     icon: https://www.postgresql.org/media/img/about/press/elephant.png
     keywords:
@@ -593,10 +593,10 @@ entries:
       yunna.net/category-zh: 任务管理
     apiVersion: v2
     appVersion: 2.17.11
-    created: "2024-12-12T10:47:49.085805874Z"
+    created: "2024-12-12T10:51:29.903075041Z"
     description: 'Qinglong(青龙)是一个支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台,
       具有在线编辑脚本、定时执行、日志查看、文件管理等功能。适合需要自动化任务调度和脚本管理的用户使用。 '
-    digest: f12942add3e600498f05534df1b7e9bb5e3c0f58a879daaf8643127d9ffb1b31
+    digest: a654e7349f62a48c7095efa15d251f72f43f3b0bdfbc096981225e8f90c1a0b4
     home: https://github.com/whyour/qinglong
     icon: https://qn.whyour.cn/logo.png
     keywords:
@@ -623,9 +623,9 @@ entries:
       yunna.net/category-zh: 缓存数据库
     apiVersion: v2
     appVersion: 6.2.6
-    created: "2024-12-12T10:47:49.086099861Z"
+    created: "2024-12-12T10:51:29.903398166Z"
     description: '基于官方 Redis 镜像的 Helm Chart，用于部署 Redis 服务。 '
-    digest: e92d4f407d98ed243c2e085a8aee08d9d8fe4e94001cf55c5aceaa1d8cc70eef
+    digest: bd53a69b274f6f5841fda411c46326dc6152ed5630184878d2c3e07bc6f0242a
     home: https://hub.docker.com/_/redis
     icon: https://assets.yunna.net/i/2024/12/11/ppvd2n.png
     keywords:
@@ -647,9 +647,9 @@ entries:
       yunna.net/category-zh: 远程桌面
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.087187196Z"
+    created: "2024-12-12T10:51:29.904221074Z"
     description: 'RustDesk Server 是 RustDesk 开源远程桌面解决方案的服务端组件，用于建立安全的自托管远程访问服务。支持跨平台访问和强大的数据加密，用户可以通过该服务器管理和控制远程设备连接，提供高效的远程支持和协作。 '
-    digest: 7168c5a10687a83a0928fe957406f581f82a6551caf154b2938c2b1f5d1dfe7f
+    digest: 70c202b8335a442b8e6ca9c5dc70bb161d7ef0b1bc95f9671e7712234bbf6b66
     home: https://hub.docker.com/r/rustdesk/rustdesk-server-s6
     icon: https://rustdesk.co.nz/wp-content/uploads/2023/05/RustDesk-removebg-preview.png
     keywords:
@@ -671,9 +671,9 @@ entries:
       yunna.net/category-zh: 语音通信
     apiVersion: v2
     appVersion: 3.13.7
-    created: "2024-12-12T10:47:49.087638815Z"
+    created: "2024-12-12T10:51:29.904824423Z"
     description: 'TeamSpeak 是一款专为高质量语音通信而设计的应用，广泛应用于游戏和团队协作。它支持多人语音通话、低延迟音频和高级权限管理，确保用户享受清晰流畅的沟通体验，适合需要稳定语音聊天的用户。 '
-    digest: 01bbc81aa62b6947c9a985eb2863a05b81f04b2234661be8d57f0cdf26f3e97f
+    digest: 2297a8e0d908535d0cb39e5bd5739301657701bc5a501a99923bba023984c7d5
     home: https://hub.docker.com/r/teamspeak/teamspeak
     icon: https://avatars.githubusercontent.com/u/136759148?s=200&v=4
     keywords:
@@ -695,10 +695,10 @@ entries:
       yunna.net/category-zh: 基础镜像
     apiVersion: v2
     appVersion: "20.04"
-    created: "2024-12-12T10:47:49.087933483Z"
+    created: "2024-12-12T10:51:29.90517096Z"
     description: 'Ubuntu 20.04 是一个流行的 Linux 发行版，这个 Chart 提供了在 Kubernetes 上运行 Ubuntu
       20.04 容器的能力。 可用于开发测试、调试或作为基础镜像使用。 '
-    digest: e8e82eec4cb4692ff6c4ff8855ac7eb153ce56a47b06763ff75e8bb4cf98eb2c
+    digest: 064ee29d1bf93917de6d1261a1e1ca17b02dc9a06ad1f635418fdef2a9673a15
     home: https://ubuntu.com/
     keywords:
     - Ubuntu
@@ -719,10 +719,10 @@ entries:
       yunna.net/category-zh: 监控工具
     apiVersion: v2
     appVersion: latest
-    created: "2024-12-12T10:47:49.088294985Z"
+    created: "2024-12-12T10:51:29.906024717Z"
     description: 'Uptime Kuma 是一个开源、轻量的自托管监控工具，支持对网站、服务器和 API 的正常运行时间进行实时监控，帮助用户快速了解服务的运行状况。它提供友好的用户界面、支持多种通知方式（如邮件、Telegram、Slack
       等）以及历史记录追踪功能。 '
-    digest: a6cc5a7582698a11aa71fd741e82f880cb6b50f20232116b7def0900964a8b1e
+    digest: 5f806453b25b4037653d72511db52ffd886f6804e50ffb2965efcf98e8e953e5
     home: https://github.com/louislam/uptime-kuma
     icon: https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.png
     keywords:
@@ -739,4 +739,4 @@ entries:
     urls:
     - https://jianzhis.github.io/PublicMirror/test/uptime-kuma-0.1.1.tgz
     version: 0.1.1
-generated: "2024-12-12T10:47:49.068203002Z"
+generated: "2024-12-12T10:51:29.883321016Z"
